@@ -52,7 +52,7 @@ education:
   - area: B.E. in Software(Honour)
     institution: Swinburne University of Technology
     date_start: 2024-07-29
-    date_end: 2026-07-06(Expected)
+    date_end: 2026-07-06
     location: Melbourne,Australia
   - area: B.E. in Software
     institution: Shandong University of Science and Technology
