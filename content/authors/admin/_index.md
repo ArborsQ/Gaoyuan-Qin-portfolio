@@ -4,7 +4,7 @@ title: Gaoyuan Qin
 
 # Name pronunciation (optional)
 name_pronunciation: Gao Yuan Qin
-in
+
 # Full name (for SEO)
 first_name: Gaoyuan
 last_name: Qin
