@@ -75,7 +75,7 @@ work:
     date_start: 2024-11-21
     date_end: 2025-02-21
     location: Shanghai,China
-    - position: Co-founder
+  - position: Co-founder
     company_name: BUKE Book
     company_url: ''
     company_logo: 'assets/ea2c61380108ba3666448d3e04748250_1.jpg'
