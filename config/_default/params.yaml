@@ -58,3 +58,15 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+profile:
+  avatar:
+    size: 160
+
+
+sections:
+  show_about: true
+  show_education: true
+  show_experience: true
+  show_projects: true
+  show_contact: true

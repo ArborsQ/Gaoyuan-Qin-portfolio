@@ -13,10 +13,14 @@ last_name: Qin
 status:
   icon: ☕️
 
-blox: resume
-
 # Is this the primary user of the site?
 superuser: true
+
+title: Experience
+blox: resume
+widget: resume
+headless: true
+weight: 10
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -86,7 +90,7 @@ work:
   - position: Co-founder
     company_name: BUKE Book
     company_url: ''
-    company_logo: 'assets/ea2c61380108ba3666448d3e04748250_1.jpg'
+    company_logo: '/uploads/ea2c61380108ba3666448d3e04748250_1.jpg'
     date_start: 2023-11-15
     date_end: 2024-07-19
     location: Jinan,China
@@ -119,7 +123,7 @@ I'm a undergraduate student in Software Engineering at **Swinburne University of
 
 Previously, I worked as a research assistant at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/),advised by Prof. [Mengyue Wu](https://myw19.github.io/) in [X-LANCE Lab](https://x-lance.sjtu.edu.cn/). With a focus on mental health applications of large language models.  and I also worked in the Software Technology Laboratory of Shandong University of Science and Technology for a period of time, advised by Prof. [Guoqiang Ren](https://jnxq.sdust.edu.cn/info/1251/21325.htm)
 
-I will join [Tencent Cloud](https://cloud.tencent.com/) as a product manage.  I am very interested in how technology products affect people's daily lives!
+I will join [Tencent Cloud](https://cloud.tencent.com/) as a product manager.  I am very interested in how technology products affect people's daily lives!
 
 I enjoy building thoughtful digital experiences and exploring the frontier between research and real-world impact. Feel free to reach out via [email](mailto:105205240@student.swin.edu.au)!
 
