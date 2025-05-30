@@ -13,6 +13,8 @@ last_name: Qin
 status:
   icon: ☕️
 
+blox: resume
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -44,9 +46,9 @@ profiles:
     url: https://scholar.google.com/citations?user=LZmW89AAAAAJ
 
 interests:
-  - Artificial Intelligence
+  - LLM
+  - AI Agent
   - Product Design
-  - Ai Agent
 
 education:
   - area: B.E. in Software(Honour)
@@ -68,6 +70,9 @@ work:
     date_start: 2025-06-09
     date_end: 2025-08-10
     location: Shenzhen,China
+    summary:
+      - This position focuses on using artificial intelligence and data analysis to improve system architecture and operational efficiency.
+      - I will jointly develop the department’s AI Agent with the engineering team and optimizing the operations of cloud products through cross‑functional collaboration.
   - position: Research Intern
     company_name: Shanghai Jiaotong University
     company_url: ''
@@ -75,6 +80,9 @@ work:
     date_start: 2024-11-21
     date_end: 2025-02-21
     location: Shanghai,China
+    summary:
+      - A psychiatrist‑patient dialogue system was built using AI agent technology, successfully applying the large model to the diagnosis of mental illness.
+      - Deploying and testing large‑scale speech models to understand their potential in providing empathetic and accurate emotional support.
   - position: Co-founder
     company_name: BUKE Book
     company_url: ''
@@ -82,6 +90,19 @@ work:
     date_start: 2023-11-15
     date_end: 2024-07-19
     location: Jinan,China
+    summary:
+      - We have established a company whose main business is integrated marketing and communication platform construction to help Startups achieve new business growth.
+      - I am responsible for customer resource docking, interactive process optimization and other tasks. Through these experiences, I have served more than 10 companies so far.
+  - position: Research Assistant
+    company_name: Shandong University of Science and Technology
+    company_url: ''
+    company_logo: 'https://upload.wikimedia.org/wikipedia/zh/f/f7/Shandong_University_of_Science_and_Technology_logo.png?20170310193244'
+    date_start: 2023-06-21
+    date_end: 2024-07-15
+    location: jinan,China
+    summary:
+      - In leading a collaborative effort to develop a face recognition model enhanced by brain wave data, I spearheaded the research and ideation phase, trained the models, and programmed the core components.
+      - The accuracy of this recognition model is as high as 97%, which has significant advantages over other recognition methods.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -95,11 +116,10 @@ work:
 ## Hi hi,  This is Gaoyuan Qin!
 
 I'm a undergraduate student in Software Engineering at **Swinburne University of Technology**, currently conducting research on AI-powered traffic flow prediction and medical automation devices.  
-My interests include **AI Agents**, **LLMs**, and **Product Design**.
 
 Previously, I worked as a research assistant at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/),advised by Prof. [Mengyue Wu](https://myw19.github.io/) in [X-LANCE Lab](https://x-lance.sjtu.edu.cn/). With a focus on mental health applications of large language models.  and I also worked in the Software Technology Laboratory of Shandong University of Science and Technology for a period of time, advised by Prof. [Guoqiang Ren](https://jnxq.sdust.edu.cn/info/1251/21325.htm)
 
-I will join [Tencent Cloud](https://cloud.tencent.com/) as a product manager with a strong technical background.  I am very interested in how technology products affect people's daily lives!
+I will join [Tencent Cloud](https://cloud.tencent.com/) as a product manage.  I am very interested in how technology products affect people's daily lives!
 
 I enjoy building thoughtful digital experiences and exploring the frontier between research and real-world impact. Feel free to reach out via [email](mailto:105205240@student.swin.edu.au)!
 
